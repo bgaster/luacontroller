@@ -1,0 +1,7 @@
+-I
+./3rd-party/lua-5.4.7/src/
+-I
+./3rd-party/libwebsockets/build/include/
+-I
+./include
+-I/opt/homebrew/opt/openssl@3/include
